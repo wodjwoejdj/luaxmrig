@@ -1,0 +1,2 @@
+# luaxmrig
+test
